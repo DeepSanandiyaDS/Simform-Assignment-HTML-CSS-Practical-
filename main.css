@@ -1,0 +1,45 @@
+.image #img_Zoom img{
+    transform: scale(1);
+    transform: 0.3s ease-in-out;
+}
+.image #img_Zoom:hover img{
+    transform: scale(1.5);
+}
+.offer_font_Size
+{
+    font-size: 10px;
+}
+.product_font_Size
+{
+    font-size: 15px;
+}
+.login_font_Size
+{
+    font-size: 15px;
+}
+.small_fonts
+{
+    font-size: 10px;
+    color: rgb(135, 133, 136);
+}
+.product_offer_Style
+{
+    font-size: 10px;
+    color: rgb(92, 175, 44);
+}
+.View_Button_Style
+{
+    background-color: #2874f0;
+}
+.table_style
+{
+    margin-top: 20px;
+}
+.image_slide
+{
+    width: 75px;
+}
+.offer_image_size
+{
+    width: 50px;
+}
