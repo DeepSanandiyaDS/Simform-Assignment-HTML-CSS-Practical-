@@ -1,3 +1,13 @@
+[type="text"]
+{
+    background-image : url(Images/search_logo_resize.jpg);
+    background-repeat:  no-repeat;
+    margin: 0px;
+    padding: 0px;
+    width: 2px;
+    height: 2px;
+    background-position-x: right;
+}
 .image #img_Zoom img{
     transform: scale(1);
     transform: 0.3s ease-in-out;
